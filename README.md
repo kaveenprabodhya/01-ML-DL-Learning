@@ -53,10 +53,3 @@ This repository is meant for:
 - **Experimentation**: Trying different parameters, datasets, and techniques.  
 - **Portfolio**: Demonstrate practical skills in ML/DL for future projects or interviews.  
 
----
-
-## 🔧 How to Use
-
-1. Clone the repository:  
-```bash
-git clone https://github.com/yourusername/ML-DL-Practice.git
